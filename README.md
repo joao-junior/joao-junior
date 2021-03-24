@@ -1,7 +1,7 @@
 ### Olá, Eu sou João Junior 👋
 
-- 🔭 I’m currently working on Direto Tech
-- 🌱 I’m currently learning  JavaScript, ReactJS, React Native, NodeJS
-- 💬 Ask me about MySql e PostgreSql
-- 📫 How to reach me: joaojunior346@gmail.com
+- 🔭 Atualmente estou trabalhando Direto Tech
+- 🌱 Atualmente estou aprendendo JavaScript, NodeJS, TypeScript
+- 💬 Pergunte-me sobre MySql e PostgreSql
+- 📫 Contato: joaojunior346@gmail.com
 
